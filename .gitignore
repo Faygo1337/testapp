@@ -24,6 +24,7 @@ yarn-error.log*
 tsconfig.tsbuildinfo
 pnpm-lock.yaml
 components.json
+CLAUDE.md
 
 # Environment
 .env
